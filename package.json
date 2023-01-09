@@ -1,0 +1,15 @@
+{
+  "name": "fb_clone",
+  "version": "1.0.0",
+  "description": "This is Facebook Clone",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "Sachin K",
+  "license": "ISC"
+}
